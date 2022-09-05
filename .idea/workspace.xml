@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50e29ee2-911d-470c-bade-bf1ce324c50e" name="Changes" comment="Ej 1">
-      <change afterPath="$PROJECT_DIR$/Video 9 Ejercicio 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video 10 Ejercicio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video 10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Manu y Nati/PycharmProjects/OpenBootcamp"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Manu y Nati/PycharmProjects/OpenBootcamp&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Manu y Nati\PycharmProjects\OpenBootcamp\Video 8 Ejercicio 2" />
       <recent name="C:\Users\Manu y Nati\PycharmProjects\OpenBootcamp\Ejercicio 7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Video 9 Ejercicio 2">
-    <configuration name="Video 7 Ejercicio 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Video 10 Ejercicio 1">
+    <configuration name="Video 10 Ejercicio 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenBootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video 7 Ejercicio 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video 10 Ejercicio 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Video 8 Ejercicio 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Video 10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OpenBootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video 8 Ejercicio 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Video 10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Video 10 Ejercicio 1" />
+        <item itemvalue="Python.Video 10" />
         <item itemvalue="Python.Video 9 Ejercicio 2" />
         <item itemvalue="Python.Video 9 Ejercicio 1" />
         <item itemvalue="Python.Video 8 Ejercicio 2" />
-        <item itemvalue="Python.Video 8 Ejercicio 1" />
-        <item itemvalue="Python.Video 7 Ejercicio 2" />
       </list>
     </recent_temporary>
   </component>
